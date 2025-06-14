@@ -1,3 +1,5 @@
+//This code will excute on Arduino IDE
+
 //servo calibration using PCA9685 (16 CHANEL SERVO DRIVER)
 
 #include<Wire.h>                       // foe I2C protocal
