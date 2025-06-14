@@ -6,12 +6,6 @@
 #include<Adafruit_PWMServoDriver.h>   // Library to interface with PCA9685
   
 
-//servo calibration using PCA9685 (16 CHANEL SERVO DRIVER)
-
-#include<Wire.h>                       // foe I2C protocal
-#include<Adafruit_PWMServoDriver.h>   // Library to interface with PCA9685
-  
-
 Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();  // Create PWM driver object
 
 // set as per your servo
