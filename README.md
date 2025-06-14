@@ -23,5 +23,5 @@ This project demonstrates how to **calibrate multiple servo motors** using the *
 | Arduino Uno/Nano       | Used to send I2C commands to PCA9685   |
 | Power Source           | 5V regulated external supply (recommended) |
 | Servo Horns / Caps     | Attached after calibration              |
-
+| capacitor(4700uF)      | To control current deficiancy         |
 ---
